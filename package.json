@@ -1,0 +1,31 @@
+{
+  "name": "deep-memoize-once",
+  "version": "1.0.0",
+  "description": "the fastest memoization library for memoizing JS functions that remembers the last result with deep argument comparison",
+  "main": "index.js",
+  "keywords": [
+    "fast-memoize",
+    "memoize",
+    "memoization",
+    "deep",
+    "optimize",
+    "cache",
+    "performance",
+    "deep-memoize",
+    "fast",
+    "fastest",
+    "deep-memoization",
+    "fast-memoization",
+    "fast-cache"
+],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuriy-Khomenko/deep-memoize-once.git"
+  },
+   "author": "Yuriy Khomenko",
+  "license": "MIT",
+  "dependencies": {
+    "qclone": "^1.0.4",
+    "qcompare": "^1.0.12"
+  }
+}
