@@ -1,6 +1,6 @@
 {
   "name": "deep-memoize-once",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "the fastest memoization library for memoizing JS functions that remembers the last result with deep argument comparison",
   "main": "index.js",
   "keywords": [
@@ -26,6 +26,6 @@
   "license": "MIT",
   "dependencies": {
     "qclone": "^1.0.10",
-    "qcompare": "^1.0.13"
+    "qcompare": "^1.0.15"
   }
 }
